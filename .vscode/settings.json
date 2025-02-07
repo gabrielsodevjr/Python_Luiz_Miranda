@@ -2,6 +2,7 @@
     "editor.fontLigatures": false,
     "workbench.startupEditor": "none",
     "editor.fontSize": 17,
+    "cSpell.language": "en,pt,pt_BR",
     "window.zoomLevel": 1,
     "explorer.compactFolders": false,
     "code-runner.runInTerminal": true,
@@ -14,6 +15,21 @@
     "workbench.colorTheme": "OM Theme (Default Dracula Italic)",
     "workbench.iconTheme": "material-icon-theme",
     "python.defaultInterpreterPath": "python",
-    "python.analysis.autoImportCompletions": true
+    "python.analysis.autoImportCompletions": true,
+    "cSpell.words": [
+        "Acabou",
+        "ação",
+        "atribuição",
+        "código",
+        "condição",
+        "contador",
+        "enquanto",
+        "Executa",
+        "infinito",
+        "Operadores",
+        "Repetições",
+        "sair",
+        "verdadeira"
+    ]
 
 }
